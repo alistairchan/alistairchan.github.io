@@ -3,7 +3,7 @@ title: 'About'
 subtitle: 'Alistair Chan IP LLC'
 date: 2018-06-30 00:00:00
 description: Law firm founder Alistair Chan is a leading Intellectual Property Attorney with over 20 years of experience advising clients of all sizes from startups to Fortune 500 companies.
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/about.jpeg'
 ---
 <style>
 .image-wrap {
